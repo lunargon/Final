@@ -32,7 +32,7 @@ def test_check_palindrome_false():
 
 
 def test_sum_age_valid():
-    assert sum_age(2023) == 202278
+    assert sum_age(2023) == 2047276
 
 
 def test_sum_age_invalid():
